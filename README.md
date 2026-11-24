@@ -2,7 +2,7 @@
 
 [![rank](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/rezimtirani/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580-entry/rank.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
 [![reward](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/rezimtirani/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580-entry/reward.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
-[![entries](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580/rezimtirani/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580-entry/entries.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
+[![make.fun](https://make.fun/badge/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580)
 
 Entry for the [make.fun](https://make.fun) bounty
 **Worst AI Advice: The 48-Hour Tight Line Open** — one line of the worst
